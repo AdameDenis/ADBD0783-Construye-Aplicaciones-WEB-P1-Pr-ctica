@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<!-- Adame Durán Brenda Denis 0783 5J -->
+<!-- Estructura principal e idioma -->
+<html lang="en">
+
+<!-- Caracteristícas principales del documento -->
+<head>
+<!-- Configuración para aceptar caracteres especiales -->
+    <meta charset="UTF-8">
+    <!-- Adaptabilidad para pantallas móviles -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Título del documento -->
+    <title></title>
+</head>
+
+<!--Cuerpo del documento-->
